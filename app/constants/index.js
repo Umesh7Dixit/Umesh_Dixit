@@ -4,6 +4,7 @@ import company2 from "../../public/c2.jpeg";
 import project1 from "../../public/project1.jpeg";
 import project2 from "../../public/project2.jpeg";
 import project3 from "../../public/project3.jpeg";
+// import project4 from "../../public/project4.jpeg";
 
 export const PROFILE = {
   name: "Umesh Dixit",
@@ -27,6 +28,11 @@ export const PROJECTS = [
     image: project3,
     url: "https://github.com/Umesh7Dixit/crypto_Exchange_WebApp",
   },
+  // {
+  //   name: "Project 4",
+  //   image: project4,
+  //   url: "https://github.com/Umesh7Dixit/Umesh_Dixit",
+  // },
   
 ];
 
