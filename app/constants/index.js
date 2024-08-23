@@ -16,12 +16,12 @@ export const PROJECTS = [
   {
     name: "Project 1",
     image: project1,
-    url: "https://github.com/Umesh7Dixit/PeerPulse_With_RealTime_Chat",
+    url: "https://peerpulse-with-realtime-chat.onrender.com/",
   },
   {
     name: "Project 2",
     image: project2,
-    url: "https://github.com/Umesh7Dixit/TaskEase-WithBackend",
+    url: "https://convo-kohl.vercel.app",
   },
   {
     name: "Project 3",
