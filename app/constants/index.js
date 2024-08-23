@@ -26,7 +26,7 @@ export const PROJECTS = [
   {
     name: "Project 3",
     image: project3,
-    url: "https://github.com/Umesh7Dixit/crypto_Exchange_WebApp",
+    url: "https://crypto-exchange-web-app.vercel.app",
   },
   // {
   //   name: "Project 4",
